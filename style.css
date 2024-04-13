@@ -1,0 +1,43 @@
+img {
+  height: 400px;
+}
+
+.headerNavigation {
+  display: grid;
+  margin: auto;
+  grid-template-columns: 200px 200px 200px;
+  gap: 50px;
+  width: 600px;
+  justify-content: center;
+}
+h1 {
+  color: cadetblue;
+}
+h2 {
+  color: darkblue;
+  font-weight: bold;
+}
+h3 {
+  color: darkblue;
+  font-weight: bold;
+}
+h5 {
+  color: darkblue;
+  font-weight: bold;
+}
+
+#Title {
+  padding: 10px;
+  background-color: black;
+}
+#app {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  background-color: cadetblue;
+  padding: 15px;
+}
+#about {
+  margin: auto;
+  text-align: center;
+}
